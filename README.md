@@ -17,12 +17,12 @@ Currently building:
 - Git & GitHub
 
 ## Current Focus
-    Learning modern web development and building real-world projects with AI tools like Lovable AI.
+Learning modern web development and building real-world projects with AI tools like Lovable AI.
 
 ## Featured Projects
-    Productivity Gamification Website  
-    Habit + Token Tracking Concept  
-    AI-assisted Web Experiments
+Productivity Gamification Website  
+Habit + Token Tracking Concept  
+AI-assisted Web Experiments
 
 ## Fun Fact
 I enjoy turning random thoughts and chaotic ideas into digital products 
